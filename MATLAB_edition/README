@@ -1,1 +1,6 @@
 
+This edtion of my FEM codes are just the initial thing I've got since I began to learn FEM.
+
+It can be really easy to write such matrix computing programs with MATLAB. Though some algrithms are improved in writing, many of the organizations and structures need to be revised.
+
+I will rewrite most of the codes in Python. That way I might continue to maintain.
